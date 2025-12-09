@@ -16,36 +16,43 @@
 
 💡 Fun Fact: Despite being deeply immersed in lines of code, I've managed to resist the allure of coffee. Yes, you read that right—I'm not a coffee enthusiast! Tea, on the other hand, is my coding companion of choice.
 
-🌐 Skills: HTML, CSS, JavaScript, C#, React.js, .Net Core, and more to come as I continue to expand my skill set.
+🌐 Skills: HTML, CSS, JavaScript, React.js, Node.js, Next.js, and more to come as I continue to expand my skill set.
 
-📚 Current Focus: Currently immersed in the dynamic world of web development, and exploring the nuances of user experience.
+📚 Current Focus: Currently immersed in the dynamic world of web development and exploring the nuances of user experience.
 
 🌈 Passions: Solving complex problems, creating elegant solutions, and turning ideas into interactive realities.
 
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/omar-wagih-135899261/" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Wagih-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/omar-wagih-135899261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 <a href="https://omarwagih3.github.io/personal_website" target="_blank">
   <img src="https://img.shields.io/badge/-Personal%20Website-28a745?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 
 
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![C#](https://img.shields.io/badge/C%23-3A0071?style=flat)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-264de4?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+### 🛠️ Tech Stack  
+
+**Languages & Frameworks**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+
 
 
 
